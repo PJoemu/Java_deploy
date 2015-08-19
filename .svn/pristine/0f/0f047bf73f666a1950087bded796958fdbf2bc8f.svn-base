@@ -1,0 +1,8 @@
+off 	 	 /srv/app/UpdateOutTicketTimeScan/UpdateOutTicketTimeScan_version/UpdateOutTicketTimeScan3812.1 	 	 com.better517na.UpdateOutTicketTimeScan.jar
+off 	 /srv/app/PTSyncUpdateScan/PTSyncUpdateScan_version/PTSyncUpdateScan_3812.4 	 	 com.better517na.PTSyncUpdateScan.jar
+off		/srv/app/SuspendNotifyScan/SuspendNotifyScan_version/SuspendNotifyScan_4666.1		com.better517na.SuspendNotifyScan.jar
+off		/srv/app/SuspendOrderScan/SuspendOrderScan_version/SuspendOrderScan_4601.2		com.better517na.SuspendOrderScan.jar
+off		/srv/app/SimpleRegistryNew								SimpleRegistry.jar
+off	 	 /srv/app/DGSuspendReplaceOrderScan/DGSuspendReplaceOrderScan_version/DGSuspendReplaceOrderScan_4601.3/ 	 	 com.better517na.DGSuspendReplaceOrderScan.jar
+off 	 	 /srv/app/PushChangedFreightProcessScanner/PushChangedFreightProcessScanner_version/PushChangedFreightProcessScanner_4574.1 	 	 com.better517na.pushChangedFreightProcessScanner.jar
+
